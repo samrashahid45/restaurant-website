@@ -1,0 +1,119 @@
+body{
+    background: rgb(241,34,91);
+background: linear-gradient(90deg, rgba(241,34,91,1) 27%, rgba(213,14,247,1) 68%, rgba(9,9,121,1) 100%, rgba(22,60,212,1) 100%);
+}
+@media screen and (min-width:320px) and (max-width:480px) {
+.sec-1{
+    margin-top: 20px;
+   }
+}
+@media screen and (min-width:320px) and (max-width:480px) {
+.sec-2{
+    margin-bottom: 5px;
+}
+}
+#top-div{
+    margin-left: auto;
+    font-size: small;
+    text-align: center;
+    margin-top: 20px;
+}
+.img{
+    margin-left:135px;
+    margin-top: 20px;
+    position: relative;
+}
+.image_overlay{
+    position: absolute;
+    top: 30px;
+    left: 160px;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-size: 10px;
+}
+h5{
+    background-color: rgb(238, 185, 50);
+    text-align: center;
+}
+p{
+    background-color: rgb(238, 185, 50);
+    font-size: 10px;
+    text-align: center;
+}
+.card-body{
+    background-color: rgb(238, 185, 50);
+    text-align: center;
+}
+.card1{
+    margin-top: 20px;
+    margin-left:120px ;
+    height: 190px;
+    width: 190px;
+    display: flex;
+}
+@media screen and (min-width:320px) and (max-width:480px) {
+    .sec-3{
+       margin-bottom: 5px; 
+    }
+}
+.card2{
+    background-color: white;
+    margin-top: 20px;
+    margin-left: 40px;
+    margin-bottom: 20px;
+}
+.body-2{
+    background-color: white;
+    font-size: 10px;
+}
+i{
+    font-size: 15px;
+}
+@media screen and (min-width:320px) and (max-width:480px) {
+    .sec-4{
+        margin-bottom: 5px;
+    }
+}
+.div-img{
+    margin-top: 20px;
+    margin-left: 120px;
+    float: left;
+}
+.third-sec{
+    box-sizing: border-box;
+    border: 1px solid white;
+    background-color: white;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+#text{
+    background-color: white;
+    font-size: 10px;
+    text-align: left;
+    font-weight: bold;
+}
+#head{
+    font-size: 15px;
+}
+.info{
+    margin-top: 20px;
+    margin-left: 90px;
+}
+#line-1{
+    background-color: rgb(247, 243, 12);
+    width: 100%;
+    height: 4px;
+    text-align: center;
+    margin-top: 30px;
+}
+@media screen and (min-width:320px) and (max-width:480px) {
+    .sec-5{
+        margin-bottom: 5px;
+    }
+}
+.img-sec{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
